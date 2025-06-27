@@ -71,7 +71,6 @@ sell 50% of the position to lock in profits.
 ## 🤝 Community & Support
 
 - **Discord**: [Join our MCP Trading channel](http://agentic.embeddednature.com/start)
-- **Email**: isaac@embeddednature.com
 - **Twitter**: [@EmbeddedNature](https://twitter.com/embeddednature)
 
 ---
